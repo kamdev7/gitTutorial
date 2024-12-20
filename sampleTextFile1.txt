@@ -3,4 +3,6 @@ update file between stash
 again update for git stash pop
 update in newBranch
 update be remote repository
+update from bitbucket
+
 
